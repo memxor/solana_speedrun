@@ -1,0 +1,12 @@
+/media/home/Local/Unity/Projects/Solana-SpeedRun-GameJam/speedrun_anchor/target/sbf-solana-solana/release/deps/blake3-49823e90723c94cc.rmeta: /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/lib.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/guts.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/platform.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/portable.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/traits.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/join.rs
+
+/media/home/Local/Unity/Projects/Solana-SpeedRun-GameJam/speedrun_anchor/target/sbf-solana-solana/release/deps/libblake3-49823e90723c94cc.rlib: /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/lib.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/guts.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/platform.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/portable.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/traits.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/join.rs
+
+/media/home/Local/Unity/Projects/Solana-SpeedRun-GameJam/speedrun_anchor/target/sbf-solana-solana/release/deps/blake3-49823e90723c94cc.d: /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/lib.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/guts.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/platform.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/portable.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/traits.rs /home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/join.rs
+
+/home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/lib.rs:
+/home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/guts.rs:
+/home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/platform.rs:
+/home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/portable.rs:
+/home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/traits.rs:
+/home/home/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.4.1/src/join.rs:

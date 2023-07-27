@@ -1,0 +1,11 @@
+Streaming transaction logs mentioning 6z9afF7b65usqnkACWjN85xobwiFuY1iMSN6pCTf1DEA. Confirmed commitment
+Transaction executed in slot 3:
+  Signature: 4KZEJHKejZTBsm2GfbwFLDZ7Ww2qRX8qdUKy71uzCtBfEyFvT33TxKYVNmRdfis2sSx76f2gtJCJCYVC3eHm9eRf
+  Status: Ok
+  Log Messages:
+    Program 6z9afF7b65usqnkACWjN85xobwiFuY1iMSN6pCTf1DEA invoke [1]
+    Program log: Instruction: InitializePlayer
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 6z9afF7b65usqnkACWjN85xobwiFuY1iMSN6pCTf1DEA consumed 9901 of 200000 compute units
+    Program 6z9afF7b65usqnkACWjN85xobwiFuY1iMSN6pCTf1DEA success
